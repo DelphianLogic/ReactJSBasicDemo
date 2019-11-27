@@ -12,7 +12,7 @@ const AppConsts = {
     remoteServiceBaseUrl: process.env.REACT_APP_REMOTE_SERVICE_BASE_URL,
     userCookieName: 'Lms.LoginUser',
     tokenCookieName: 'Lms.AuthToken',
-    usercookieExpDays: 1,
+    usercookieExpDays: 10,
     encdecSecretKey: "P%T1<-:1$n!O189r^e",
     pagesize: 10
 };
